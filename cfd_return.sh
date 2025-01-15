@@ -3,7 +3,7 @@
 # 当前脚本更新日期 （2025.01.10）
 
 # GitHub 代理地址
-GH_PROXY='https://ghproxy.lvedong.eu.org/'
+GH_PROXY='https://ghfast.top/'
 
 # 当脚本被中断时，清理临时文件
 trap "rm -rf /tmp/cfd_return; exit" INT
